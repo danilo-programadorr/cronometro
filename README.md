@@ -11,16 +11,16 @@
     
 -  Botão iniciar
 -  Botão Pause
--  Botão Resetar
+-  Botão Resetar <BR>
 com um layout simples .
     
 </h6>
 
 ## Features
 
-- [] Botão iniciar
-- [] Botão Pause
-- [] Botão Resetar
+ [] Botão iniciar
+ [] Botão Pause
+ [] Botão Resetar
 
 
 ## Começando
