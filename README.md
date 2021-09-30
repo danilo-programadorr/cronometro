@@ -1,8 +1,9 @@
 # crônometro    <img src="/assets/reloj.gif" alt="Logo Repo" width="30">
 ## Status :white_check_mark:
 <br>
+
 <div align="center">
-   <img src="/assets/anime.gif" alt="imagem gif" width="600">
+   
     
 ## Sobre o projeto
 
@@ -20,4 +21,5 @@ com um layout simples .
 
  [:heavy_check_mark:] Botão iniciar
  [:heavy_check_mark:] Botão Pause
- [:heavy_check_mark:] Botão Resetar
+ [:heavy_check_mark:] Botão Resetar<br><br>
+ link do projeto: https://cronometro-ruddy.vercel.app/
