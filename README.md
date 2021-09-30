@@ -1,8 +1,8 @@
 # crônometro    <img src="/assets/reloj.gif" alt="Logo Repo" width="30">
-## Status :construction:
+## Status :white_check_mark:
 <br>
 <div align="center">
-   <img src="/assets/animação.gif" alt="Logo Repo" width="300">
+   <img src="/assets/anime.gif" alt="imagem gif" width="600">
     
 ## Sobre o projeto
 
@@ -18,9 +18,6 @@ com um layout simples .
 
 ## Features
 
- [] Botão iniciar
- [] Botão Pause
- [] Botão Resetar
-
-
-## Começando
+ [:heavy_check_mark:] Botão iniciar
+ [:heavy_check_mark:] Botão Pause
+ [:heavy_check_mark:] Botão Resetar
