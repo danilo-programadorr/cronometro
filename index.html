@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,13 +8,22 @@
     <link rel="stylesheet" href="/css/style.css">
     <title>Cronômetro</title>
 </head>
+
 <body>
-    <h1>cronômetro</h1>
-    <h2>javaScript vanilla</h2>
-    <p><span id="seconds">00</span>:<span id="tens">00</span></p> 
-    <button id="buton-star">START</button>
-    <button id="buton-pause">PAUSE</button>
-    <button id="buton-reset">RESET</button>
-    <script src="/js/main.js"></script>
+    <main id="container">
+        <h1 class="titulo ">Cronômetro</h1>
+        <h2 class="subtitulo">javaScript vanilla</h2>
+
+        <p><span id="seconds" class="sec">00</span>:<span id="tens" class="te">00</span></p>
+        <div id="bts">
+            <button id="buton-start" class="start">START</button>
+            <button id="buton-pause" class="pause">STOP</button>
+            <button id="buton-reset" class="reset">RESET</button>
+        </div>
+
+        
+        <script src="/js/main.js"></script>
+    </main>
 </body>
+
 </html>

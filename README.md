@@ -2,7 +2,7 @@
 ## Status :construction:
 <br>
 <div align="center">
-   <h1> Ilustração animada</h1>
+   <img src="/assets/animação.gif" alt="Logo Repo" width="300">
     
 ## Sobre o projeto
 
