@@ -1,6 +1,9 @@
-# crônometro    <img src="/assets/reloj.gif" alt="Logo Repo" width="30">
+# crônometro   
 ## Status :white_check_mark:
 <br>
+
+
+![cronometro](https://user-images.githubusercontent.com/75100575/137583519-387261ed-447b-49f1-97d2-6f6868c82fff.gif)
 
 <div align="center">
    
